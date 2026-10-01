@@ -60,7 +60,7 @@ This project analyzes a full year of Amazon India e-commerce transactions (Janâ€
 
 ## ðŸ“ˆ Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Dashboard.jpeg)
 
 **Features:**
 - 6 KPI cards (Revenue, Orders, AOV, Repeat %, Return %, Rating)
